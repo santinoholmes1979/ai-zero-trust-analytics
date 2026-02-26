@@ -1,0 +1,13 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data / models
+data/processed/
+models/
+
+# OS / editors
+.vscode/
+.DS_Store
