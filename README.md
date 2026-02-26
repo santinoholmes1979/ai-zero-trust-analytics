@@ -1,4 +1,6 @@
-An end-to-end behavioral security analytics system that simulates enterprise telemetry, builds per-user behavioral baselines, detects anomalies using machine learning, and supports SOC analyst investigation workflows.
+End-to-end Zero Trust behavioral analytics pipeline with UEBA baselining, anomaly detection, and SOC analyst workflow.
+
+An enterprise-style security analytics system that models per-user behavior, detects high-risk deviations using Isolation Forest, and supports SOC investigation and case management.
 
 
 
